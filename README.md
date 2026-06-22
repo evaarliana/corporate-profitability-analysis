@@ -22,7 +22,7 @@ How can RevoShion recover the 13.6% profit decline in the Corporate segment with
 
 ## Tools
 
-* Microsoft Excel
+* Google Spreadsheet
 * Business Frameworks (DARCI, SMART, OBIPR)
 
 ## Project Deliverables
