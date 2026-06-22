@@ -1,5 +1,7 @@
 # Corporate Profitability Analysis
 
+## Overview
+
 This project investigates the 13.6% profit decline in the Corporate segment despite a 20.4% increase in sales and provides data-driven recommendations to improve profitability.
 
 ## Business Problem
@@ -32,14 +34,6 @@ How can RevoShion recover the 13.6% profit decline in the Corporate segment with
 * Business Recommendations
 * Interactive Dashboard
 * Final Presentation
-
-## Project Structure
-
-| Folder | Description |
-|---------|------------|
-| Dashboard | Power BI dashboard |
-| Presentation | Final presentation deck |
-| Assets | Dashboard screenshots |
 
 ## Author
 
