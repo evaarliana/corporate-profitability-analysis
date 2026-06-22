@@ -2,37 +2,40 @@
 
 ## Overview
 
-This project investigates the 13.6% profit decline in the Corporate segment despite a 20.4% increase in sales and provides data-driven recommendations to improve profitability.
+This project was completed as part of the RevoU Data Analytics Program.
 
-## Business Problem
+The objective was to investigate the 13.6% profit decline in the Corporate segment despite a 20.4% increase in total sales and identify actionable recommendations to improve profitability.
 
-How can RevoShion recover the 13.6% profit decline in the Corporate segment within the next two quarters despite increasing sales?
+## Objectives
 
-## Key Findings
+* Understand the business problem and profitability decline.
+* Identify key stakeholders and business requirements.
+* Analyze root causes affecting profitability.
+* Define relevant KPIs to measure business performance.
+* Develop actionable business recommendations.
 
-* Higher discounts reduced profit margins.
-* Lower selling prices reduced profit per order.
-* Increasing supplier costs increased COGS and reduced profitability.
+## Methodology
 
-## Recommendations
-
-* Review and optimize discount policies.
-* Establish minimum profit margin thresholds.
-* Renegotiate supplier contracts and evaluate alternative vendors.
-
-## Tools
-
-* Google Spreadsheet
-* Business Frameworks (DARCI, SMART, OBIPR)
+* Stakeholder Mapping
+* Root Cause Analysis
+* KPI Definition
+* Business Recommendation Development
 
 ## Project Deliverables
 
-* Business Understanding Analysis
+* Business Problem Analysis
+* Stakeholder Mapping
 * Root Cause Analysis
-* KPI Definition
+* KPI Framework
 * Business Recommendations
-* Interactive Dashboard
 * Final Presentation
+
+## Project Structure
+
+| File | Description |
+|------|-------------|
+| PDF Report | Final project presentation and analysis |
+| README | Project documentation |
 
 ## Author
 
