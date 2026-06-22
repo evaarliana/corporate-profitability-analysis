@@ -1,100 +1,46 @@
-# \# Corporate Profitability Analysis
+# Corporate Profitability Analysis
 
-# 
+This project investigates the 13.6% profit decline in the Corporate segment despite a 20.4% increase in sales and provides data-driven recommendations to improve profitability.
 
-# \## Project Overview
+## Business Problem
 
-# 
+How can RevoShion recover the 13.6% profit decline in the Corporate segment within the next two quarters despite increasing sales?
 
-# This project was completed as part of the RevoU Data Analytics Program.
+## Key Findings
 
-# 
+* Higher discounts reduced profit margins.
+* Lower selling prices reduced profit per order.
+* Increasing supplier costs increased COGS and reduced profitability.
 
-# The objective was to investigate the 13.6% profit decline in the Corporate segment despite a 20.4% increase in total sales and identify actionable recommendations to improve profitability.
+## Recommendations
 
-# 
+* Review and optimize discount policies.
+* Establish minimum profit margin thresholds.
+* Renegotiate supplier contracts and evaluate alternative vendors.
 
-# \## Business Problem
+## Tools
 
-# 
+* Microsoft Excel
+* Power BI
+* Business Frameworks (DARCI, SMART, OBIPR)
 
-# How can RevoShion recover the 13.6% profit decline in the Corporate segment within the next two quarters despite rising sales?
+## Project Deliverables
 
-# 
+* Business Understanding Analysis
+* Root Cause Analysis
+* KPI Definition
+* Business Recommendations
+* Interactive Dashboard
+* Final Presentation
 
-# \## Analytical Framework
+## Project Structure
 
-# 
+| Folder | Description |
+|---------|------------|
+| Dashboard | Power BI dashboard |
+| Presentation | Final presentation deck |
+| Assets | Dashboard screenshots |
 
-# \* Stakeholder Identification (DARCI)
+## Author
 
-# \* SMART Problem Statement
-
-# \* Root Cause Analysis
-
-# \* Hypothesis Development
-
-# \* KPI \& Metrics Definition
-
-# \* OBIPR Recommendation Framework
-
-# 
-
-# \## Key Findings
-
-# 
-
-# \### Top Root Causes
-
-# 
-
-# 1\. Higher discounts reduced profit margins.
-
-# 2\. Lower selling prices reduced profit per order.
-
-# 3\. Increasing supplier costs increased COGS and reduced profitability.
-
-# 
-
-# \## Recommendations
-
-# 
-
-# \* Review and control discount policies for corporate clients.
-
-# \* Reevaluate pricing strategy and establish minimum margin requirements.
-
-# \* Optimize supplier contracts and evaluate alternative suppliers.
-
-# 
-
-# \## Skills Demonstrated
-
-# 
-
-# \* Business Understanding
-
-# \* Stakeholder Analysis
-
-# \* KPI Definition
-
-# \* Root Cause Analysis
-
-# \* Business Recommendation Development
-
-# \* Analytical Thinking
-
-# 
-
-# \## Deliverables
-
-# 
-
-# \* Business Analysis Presentation
-
-# \* Profitability Investigation Framework
-
-# \* Recommendation Plan
-
-# 
-
+Eva Arliana
