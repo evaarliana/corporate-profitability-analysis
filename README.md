@@ -2,15 +2,7 @@
 
 # 
 
-# \## Project Overview
-
-# 
-
-# This project was completed as part of the RevoU Data Analytics Program.
-
-# 
-
-# The objective was to investigate the 13.6% profit decline in the Corporate segment despite a 20.4% increase in total sales and identify actionable recommendations to improve profitability.
+# This project investigates the 13.6% profit decline in the Corporate segment despite a 20.4% increase in sales and provides data-driven recommendations to improve profitability.
 
 # 
 
@@ -18,25 +10,7 @@
 
 # 
 
-# How can RevoShion recover the 13.6% profit decline in the Corporate segment within the next two quarters despite rising sales?
-
-# 
-
-# \## Analytical Framework
-
-# 
-
-# \* Stakeholder Identification (DARCI)
-
-# \* SMART Problem Statement
-
-# \* Root Cause Analysis
-
-# \* Hypothesis Development
-
-# \* KPI \& Metrics Definition
-
-# \* OBIPR Recommendation Framework
+# How can RevoShion recover the 13.6% profit decline in the Corporate segment within the next two quarters despite increasing sales?
 
 # 
 
@@ -44,15 +18,11 @@
 
 # 
 
-# \### Top Root Causes
+# \* Higher discounts reduced profit margins.
 
-# 
+# \* Lower selling prices reduced profit per order.
 
-# 1\. Higher discounts reduced profit margins.
-
-# 2\. Lower selling prices reduced profit per order.
-
-# 3\. Increasing supplier costs increased COGS and reduced profitability.
+# \* Increasing supplier costs increased COGS and reduced profitability.
 
 # 
 
@@ -60,41 +30,63 @@
 
 # 
 
-# \* Review and control discount policies for corporate clients.
+# \* Review and optimize discount policies.
 
-# \* Reevaluate pricing strategy and establish minimum margin requirements.
+# \* Establish minimum profit margin thresholds.
 
-# \* Optimize supplier contracts and evaluate alternative suppliers.
-
-# 
-
-# \## Skills Demonstrated
+# \* Renegotiate supplier contracts and evaluate alternative vendors.
 
 # 
 
-# \* Business Understanding
+# \## Tools
 
-# \* Stakeholder Analysis
+# 
 
-# \* KPI Definition
+# \* Microsoft Excel
+
+# \* Power BI
+
+# \* Business Frameworks (DARCI, SMART, OBIPR)
+
+# 
+
+# \## Project Deliverables
+
+# 
+
+# \* Business Understanding Analysis
 
 # \* Root Cause Analysis
 
-# \* Business Recommendation Development
+# \* KPI Definition
 
-# \* Analytical Thinking
+# \* Business Recommendations
+
+# \* Interactive Dashboard
+
+# \* Final Presentation
+
+# 
+
+# \## Project Structure
 
 # 
 
-# \## Deliverables
+# | Folder | Description |
+
+# |---------|------------|
+
+# | Dashboard | Power BI dashboard |
+
+# | Presentation | Final presentation deck |
+
+# | Assets | Dashboard screenshots |
 
 # 
 
-# \* Business Analysis Presentation
-
-# \* Profitability Investigation Framework
-
-# \* Recommendation Plan
+# \## Author
 
 # 
+
+# Eva Arliana
 
