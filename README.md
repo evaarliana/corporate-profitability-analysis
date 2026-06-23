@@ -22,61 +22,61 @@
 
 # 
 
-# \## Key Findings
+## Key Findings
 
 # 
 
-# \* Higher discounts reduced profit margins.
+* Higher discounts reduced profit margins.
 
-# \* Lower selling prices reduced profit per order.
+* Lower selling prices reduced profit per order.
 
-# \* Increasing supplier costs increased COGS and reduced profitability.
-
-# 
-
-# \## Recommendations
+* Increasing supplier costs increased COGS and reduced profitability.
 
 # 
 
-# \* Review and optimize discount policies.
-
-# \* Establish minimum profit margin thresholds.
-
-# \* Renegotiate supplier contracts and evaluate alternative vendors.
+## Recommendations
 
 # 
 
-# \## Tools
+* Review and optimize discount policies.
+
+* Establish minimum profit margin thresholds.
+
+* Renegotiate supplier contracts and evaluate alternative vendors.
 
 # 
 
-# \* Microsoft Excel
-
-# \* Power BI
-
-# \* Business Frameworks (DARCI, SMART, OBIPR)
+## Tools
 
 # 
 
-# \## Project Deliverables
+* Google Sheet
+
+* Power BI
+
+* Business Frameworks (DARCI, SMART, OBIPR)
 
 # 
 
-# \* Business Understanding Analysis
-
-# \* Root Cause Analysis
-
-# \* KPI Definition
-
-# \* Business Recommendations
-
-# \* Interactive Dashboard
-
-# \* Final Presentation
+## Project Deliverables
 
 # 
 
-# \## Project Structure
+* Business Understanding Analysis
+
+* Root Cause Analysis
+
+* KPI Definition
+
+* Business Recommendations
+
+* Interactive Dashboard
+
+* Final Presentation
+
+# 
+
+## Project Structure
 
 # 
 
@@ -92,7 +92,7 @@
 
 # 
 
-# \## Author
+## Author
 
 # 
 
