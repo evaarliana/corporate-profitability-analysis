@@ -1,14 +1,22 @@
-# \# Corporate Profitability Analysis
+# Corporate Profitability Analysis
 
-# 
+## Overview
 
 # This project investigates the 13.6% profit decline in the Corporate segment despite a 20.4% increase in sales and provides data-driven recommendations to improve profitability.
 
-# 
+* Stakeholder Mapping
+* Root Cause Analysis
+* KPI Definition
+* Business Recommendation Development
 
-# \## Business Problem
+## Project Deliverables
 
-# 
+* Business Problem Analysis
+* Stakeholder Mapping
+* Root Cause Analysis
+* KPI Framework
+* Business Recommendations
+* Final Presentation
 
 # How can RevoShion recover the 13.6% profit decline in the Corporate segment within the next two quarters despite increasing sales?
 
